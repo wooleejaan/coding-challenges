@@ -2,6 +2,7 @@
 
 with [thecodingtrain](https://www.youtube.com/@TheCodingTrain)
 
-[object trails](/object-trails/)<br>
-[slider dance](/slider-dance/)<br>
-[basic shapes](/drawing-shapes/)<br>
+[Object Trails](/object-trails/)<br>
+[Slider Dance](/slider-dance/)<br>
+[Drawing Shapes](/drawing-shapes/)<br>
+[Random Circle With No Overlap](/random-circles-with-no-overlap/)<br>
