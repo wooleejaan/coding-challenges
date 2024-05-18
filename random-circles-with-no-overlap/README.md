@@ -32,7 +32,8 @@ if(protection > 10000){
 }
 ```
 
-[Demo](https://editor.p5js.org/wooleejaan/full/73qnHAF7R)
+[Demo](https://editor.p5js.org/wooleejaan/full/73qnHAF7R)<br>
+[Demo with grid concept](https://editor.p5js.org/wooleejaan/full/DZC_OWA0s)<br>
 
 ### References
 
